@@ -1,0 +1,16 @@
+ID	Last	First	GradYear	GradTerm	DegreeProgram
+101010	Lee	Shane	2019	Spring	MSA
+101020	Zhang	Eve	2019	Summer	MSSD
+101030	Anthony	Daisy	2020	Fall	MSBA
+101040	Ware	Tyson	2019	Spring	MSGF
+101050	Shea	Marley	2019	Summer	MSIT
+101060	Duke	Matteo	2019	Fall	MSM
+101070	Blackwell	Savannah	2020	Spring	MSMI
+
+
+
+
+
+
+
+
